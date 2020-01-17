@@ -37,7 +37,7 @@ namespace Salon.Controllers
     public ActionResult Details(int id)
     {
       Stylist thisStylist = _db.Stylists.FirstOrDefault(stylist => stylist.StylistId == id);
-      ViewBag.customerList = _db.Customers.Where(customers => customers.StylistId == id).ToList();
+      ViewBag.CustomerList = _db.Customers.Where(customers => customers.StylistId == id).ToList();
       return View(thisStylist);
     }
 
