@@ -6,6 +6,15 @@
 
 This is a salon management program designed to help keep track of stylists and customers.
 
+## Specifications:
+
+The user will be able to:
+
+  - store a list of stylists 
+  - store a list of customers per stylist
+  - edit, delete, and add stylists
+  - edit, delete, and add customers
+
 ## Links:
 
 Github - https://github.com/Salon
