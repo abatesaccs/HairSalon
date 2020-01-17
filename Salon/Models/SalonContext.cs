@@ -4,8 +4,8 @@ namespace Salon.Models
 {
   public class SalonContext : DbContext
   {
-    public virtual DbSet<Category> Stylists { get; set; }
-    public DbSet<Item> Customers { get; set; }
+    public virtual DbSet<Stylist> Stylists { get; set; }
+    public DbSet<Customer> Customers { get; set; }
     
     public SalonContext(DbContextOptions options) : base(options) { }
   }
