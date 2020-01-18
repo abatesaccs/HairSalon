@@ -1,10 +1,10 @@
-# Salon
+# HairSalon
 ##### By Andrew Bates
 ###### Last Updated Jan 17 2020
 
 ## Description
 
-This is a salon management program designed to help keep track of stylists and customers.
+This is a HairSalon management program designed to help keep track of stylists and customers.
 
 ## Specifications:
 
@@ -17,11 +17,11 @@ The user will be able to:
 
 ## Links:
 
-Github - https://github.com/Salon
+Github - https://github.com/HairSalon
 
 ## Setup/Installation Requirements:
 
-1. Open https://github.com/Salon
+1. Open https://github.com/HairSalon
 2. Clone repository to local machine 
 3. Install .NET and ASP.NET Core
 4. Downliad and install SQL Server
