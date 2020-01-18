@@ -1,0 +1,13 @@
+body {
+  margin: 0 auto;
+  max-width: 1200px;
+  text-align: center;
+}
+ul li{
+  list-style-type: none;
+  margin-right: 3%;
+}
+#categoryli{
+  list-style-type: none;
+}
+
